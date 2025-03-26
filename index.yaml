@@ -3,12 +3,12 @@ entries:
   sai:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-26T19:01:44.413030751+05:30"
+    created: "2025-03-26T19:03:56.241786387+05:30"
     description: A Helm chart for Kubernetes
-    digest: 80f1b91910cc24dbcbe556f42628f2d4260547fcab3a7fa8c28fe1ff01f5aed8
+    digest: bbb5677f310e7079f62c0e274e871c434b1ebcc4b0beebcfce29b03ef56d8f4d
     name: sai
     type: application
     urls:
     - https://ganesh-redy.github.io/helm2/sai-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-26T19:01:44.410120524+05:30"
+generated: "2025-03-26T19:03:56.240791922+05:30"
